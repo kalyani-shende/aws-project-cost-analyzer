@@ -1,0 +1,17 @@
+
+{
+  "project_id": "UCDP-POC",
+  "config": {
+    "enabled": true,
+    "tag_key": "Project",
+    "tag_value": "UCDP-POC",
+    "currency": "USD",
+    "period": "MONTHLY",
+    "thresholds": {
+      "AWS Glue": 100,
+      "Amazon Redshift": 200,
+      "Amazon Simple Storage Service": 50,
+      "AWS Lambda": 20
+    }
+  }
+}

@@ -1,0 +1,4 @@
+# Lambda Environment variables
+CONFIG_TABLE=ProjectCostConfig
+DEFAULT_PROJECT_ID=DataPlatform-POC
+SNS_TOPIC_ARN=arn:aws:sns:ap-south-1:123456789012:aws-project-cost-alerts

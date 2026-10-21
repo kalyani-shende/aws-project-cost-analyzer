@@ -249,6 +249,3 @@ Use mocked Boto3 responses for unit tests. Run an end-to-end test in a controlle
 
 This project demonstrates AWS serverless integration, Python/Boto3 automation, configuration-driven monitoring, cost allocation tags, IAM least privilege, event-driven scheduling, and FinOps fundamentals. When listing it on a CV, distinguish **implemented and tested features** from planned enhancements, and report measured results only when verified.
 
-## License
-
-Choose a license (for example, MIT) before adding a `LICENSE` file; no license is implied by this README.
